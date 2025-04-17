@@ -55,3 +55,58 @@ originalArray.customForEach((element) => {
 //     return this;
 // }
 // Array.prototype.customForEach = customForEacht;
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Higher order functions
+
+
+function higherOrderFunction(callback) {
+    console.log("This is a higher order function that takes a callback as an argument.");
+    console.log("Executing the callback function now...");
+    return callback()
+        
+
+}
+
+function myCallback() {
+    console.log("This is the callback function being executed.");
+    return "Callback executed successfully!";
+}
+
+
+higherOrderFunction(myCallback);
+
+
+
+// first class function
+
+
+function firstClassFunction() {
+    console.log("This is a first-class function, which means it can be treated like any other value.");
+    console.log("It can be assigned to variables, passed as arguments, or returned from other functions.");
+    console.log("This demonstrates the flexibility of first-class functions.");
+    return "First-class function executed successfully!";
+}
+
+
+let myFunction = firstClassFunction;
+console.log(myFunction()); // Call the function using the variable
+
+//constructor function
+function Person(name, age) {
+    this.name = name;
+    this.age = age;
+    this.introduce = function() {
+        console.log(`Hello, my name is ${this.name} and I am ${this.age} years old.`);
+        console.log('constructor function is used to create objects with properties and methods.');
+        console.log('This demonstrates the use of constructor functions in JavaScript.');
+    };
+}
+
+const person1 = new Person("Alice", 30);
+const person2 = new Person("Bob", 25);
+
+
