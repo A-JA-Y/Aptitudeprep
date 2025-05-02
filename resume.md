@@ -34,17 +34,17 @@ A highly self-motivated and analytical Bachelor of Computer Applications student
 * Demonstrates ability to work with external APIs, retrieve structured data (JSON), and present it effectively.
 * *Skills Used: JavaScript, API Integration, HTML, CSS*
 
-**HomeComfort Furniture Website** | [Link](https://homecomfort.netlify.app/) *(Replace with live link if available)*
+**HomeComfort Furniture Website** | [Link](https://first-app-beige.vercel.app/) *(Replace with live link if available)*
 * Built a multi-page furniture e-commerce frontend concept using React JS and Tailwind CSS.
 * Implemented initial functionality, demonstrating understanding of component-based architecture and UI development.
 * *Skills Used: React JS, Tailwind CSS, JavaScript*
 
-**School Landing Page** | [Link](https://schoolwebsite1.netlify.app/) *(Replace with live link if available)*
+**School Landing Page** | [Link](https://school-website-sooty.vercel.app/) *(Replace with live link if available)*
 * Designed and developed a single-page application for a school using React JS and Tailwind CSS.
 * Focused on clear information presentation and user experience, incorporating CTA buttons to potentially improve user engagement efficiency.
 * *Skills Used: React JS, Tailwind CSS, JavaScript, UI/UX Concepts*
 
-**AddToFav & Pass-My-Word** | [AddToFav Link](https://addtofav.netlify.app/) | [Pass-My-Word Link](https://passmyword.netlify.app/) *(Replace links)*
+**AddToFav & Pass-My-Word** | [AddToFav Link](https://add-to-fav-five.vercel.app/) | [Pass-My-Word Link](https://passmyword.netlify.app/) *(Replace links)*
 * Developed mini-applications demonstrating state management and local storage usage in React JS for data persistence.
 * Utilized Tailwind CSS Grid system for responsive design across devices. Showcases understanding of handling and storing user-specific data on the client-side.
 * *Skills Used: React JS, JavaScript, State Management, Local Storage, Tailwind CSS*
